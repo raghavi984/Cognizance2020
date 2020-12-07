@@ -1,35 +1,19 @@
 <!-- Headings -->
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+# First html code
 
-<!--Italics-->
-*THis text* is italic
 
-_tis text_ is italic
 
 <!-- strong -->
-**This text** is italic
+**learnt from w3schools.com** is italic
 
--__This text__ is italic
+-__learnt from w3schools.com__ is italic
 
-<!--strikethrough-->
-~~This text~~ is strikethrough
-
-<!--Horizontal Rule-->
-
----
-___
 
 <!--Blockquotes-->
->  This is a quote
+>  This is a html code
 
 <!-- Links -->
-[Traversy Media](ttps://www.youtube.com/watch?v=HUBNt18RFb)
-
+[firstprog.com](https://www.firstprog.com/html/html_basic.asp)
 <!-- UL -->
 * ITEM 1
 * ITEM 2
@@ -45,27 +29,25 @@ ___
     3. Item 3
 
     <!-- Inline code Block-->
-    '<p>This is a paragraph/p>
+    '<p>This is a htmlcode/p>
 
     <!--Image-->
-    ![mcdlogo](https://www.creativebloq.com/news/mcdonalds-logo-backlash)
-
-    <!--Github MCD -->
+    ![htmllogo](https://pngtree.com/freepng/html-file-document-icon_4187757.htm)
+    <!--Github html -->
 
     <!-- Code BLOCKS -->
-```bash
-    npm install
 
-```javascript
-  function add(num1,num2) {
-      return num1 +num2
+    <!--code display-->
+   [htmlcode](HTML <code> element)
+
+
+<!--table-->
+Firstname 	Lastname
+Peter      	Griffin
+Lois      	Griffin
+
+<!--htmlcode-->
+table {
+  width: 100%;
 }
-```
 
-
-```python
-  def add (num1,num2)
-    return num1+num2
-```
-
-<!--Tables -->
