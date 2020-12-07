@@ -4,9 +4,9 @@
 
 
 <!-- strong -->
-**learnt from w3schools.com** is italic
+**learnt from w3schools.com** 
 
--__learnt from w3schools.com__ is italic
+__learnt from w3schools.com__ 
 
 
 <!--Blockquotes-->
@@ -29,7 +29,7 @@
     3. Item 3
 
     <!-- Inline code Block-->
-    '<p>This is a htmlcode/p>
+    <p> I'm very new to programming. So I've made this html code to submit task. </p>
 
     <!--Image-->
     ![htmllogo](https://pngtree.com/freepng/html-file-document-icon_4187757.htm)
